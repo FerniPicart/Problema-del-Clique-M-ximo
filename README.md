@@ -18,11 +18,11 @@
 2. utils.py
 - Contiene la función guardar_resultados(grafo_obj, asincrono=False) que escribe los datos de la ejecución en un archivo TXT con modo, cantidad de nodos, probabilidad, clique encontrado, tamaño y tiempo.
 
-- 3. main.py
+3. main.py
 - Punto de entrada del programa.
 - Pide al usuario: - número de nodos, - probabilidad de conexión, - si desea ejecutar en modo asíncrono.
 - Crea el objeto Grafo, genera el grafo y ejecuta el método correspondiente.
 - Muestra resultados en consola y confirma guardado del archivo.
 
-- 4. resultados_clique.txt
+4. resultados_clique.txt
   - Archivo de salida con el registro de resultados de las ejecuciones anteriores.
