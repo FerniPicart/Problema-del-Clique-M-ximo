@@ -1,0 +1,32 @@
+=====================================
+Modo de ejecución: SINCRÓNICO
+Nodos: 10
+Probabilidad de conexión: 0.6
+Clique máximo encontrado: [2, 4, 8, 0, 5]
+Tamaño del clique máximo: 5
+Tiempo de ejecución: 0.0007 segundos
+
+=====================================
+Modo de ejecución: SINCRÓNICO
+Nodos: 100
+Probabilidad de conexión: 0.2
+Clique máximo encontrado: [32, 47, 84, 98, 67]
+Tamaño del clique máximo: 5
+Tiempo de ejecución: 0.0067 segundos
+
+=====================================
+Modo de ejecución: SINCRÓNICO
+Nodos: 500
+Probabilidad de conexión: 0.3
+Clique máximo encontrado: [2, 30, 170, 173, 107, 152, 347, 255]
+Tamaño del clique máximo: 8
+Tiempo de ejecución: 4.7182 segundos
+
+=====================================
+Modo de ejecución: SINCRÓNICO
+Nodos: 1000
+Probabilidad de conexión: 0.3
+Clique máximo encontrado: [0, 645, 914, 667, 880, 853, 841, 593, 953]
+Tamaño del clique máximo: 9
+Tiempo de ejecución: 258.8920 segundos
+
