@@ -1,0 +1,420 @@
+============================================================
+Método: HEURÍSTICO (Voraz)
+Nodos: 1000
+Probabilidad de conexión: 0.3
+Aristas: 149636
+Clique encontrado: [434, 663, 252, 482, 357, 515]
+Tamaño del clique: 6
+Tiempo de ejecución: 0.0012 segundos
+============================================================
+
+============================================================
+Método: HEURÍSTICO (Voraz)
+Nodos: 1500
+Probabilidad de conexión: 0.3
+Aristas: 336956
+Clique encontrado: [1275, 636, 162, 304, 1320, 1399]
+Tamaño del clique: 6
+Tiempo de ejecución: 0.0016 segundos
+============================================================
+
+============================================================
+Método: HEURÍSTICO (Voraz)
+Nodos: 2000
+Probabilidad de conexión: 0.3
+Aristas: 599658
+Clique encontrado: [380, 1248, 992, 1181, 1468, 1002, 1868]
+Tamaño del clique: 7
+Tiempo de ejecución: 0.0021 segundos
+============================================================
+
+============================================================
+Método: HEURÍSTICO (Voraz)
+Nodos: 2500
+Probabilidad de conexión: 0.3
+Aristas: 936729
+Clique encontrado: [1999, 86, 1762, 394, 812, 1682, 2283]
+Tamaño del clique: 7
+Tiempo de ejecución: 0.0036 segundos
+============================================================
+
+============================================================
+Método: HEURÍSTICO (Voraz)
+Nodos: 3000
+Probabilidad de conexión: 0.3
+Aristas: 1350551
+Clique encontrado: [412, 296, 1761, 974, 1711, 2479, 2429, 1798, 2851]
+Tamaño del clique: 9
+Tiempo de ejecución: 0.0038 segundos
+============================================================
+
+============================================================
+Método: HEURÍSTICO (Voraz)
+Nodos: 3500
+Probabilidad de conexión: 0.3
+Aristas: 1837961
+Clique encontrado: [2870, 3172, 2451, 377, 3289, 2406, 89, 1722]
+Tamaño del clique: 8
+Tiempo de ejecución: 0.0040 segundos
+============================================================
+
+============================================================
+Método: HEURÍSTICO (Voraz)
+Nodos: 4000
+Probabilidad de conexión: 0.3
+Aristas: 2399407
+Clique encontrado: [2651, 1256, 538, 38, 1005, 1980, 3702]
+Tamaño del clique: 7
+Tiempo de ejecución: 0.0056 segundos
+============================================================
+
+============================================================
+Método: HEURÍSTICO (Voraz)
+Nodos: 4500
+Probabilidad de conexión: 0.3
+Aristas: 3039673
+Clique encontrado: [1847, 2572, 2135, 4063, 171, 74, 3365, 699]
+Tamaño del clique: 8
+Tiempo de ejecución: 0.0064 segundos
+============================================================
+
+============================================================
+Método: HEURÍSTICO (Voraz)
+Nodos: 5000
+Probabilidad de conexión: 0.3
+Aristas: 3751243
+Clique encontrado: [2866, 3762, 1973, 3849, 1820, 4328, 193, 4524]
+Tamaño del clique: 8
+Tiempo de ejecución: 0.0062 segundos
+============================================================
+
+============================================================
+Método: HEURÍSTICO (Voraz)
+Nodos: 5500
+Probabilidad de conexión: 0.3
+Aristas: 4537863
+Clique encontrado: [4888, 4064, 105, 4798, 1356, 1940, 3193]
+Tamaño del clique: 7
+Tiempo de ejecución: 0.0080 segundos
+============================================================
+
+============================================================
+Método: HEURÍSTICO (Voraz)
+Nodos: 6000
+Probabilidad de conexión: 0.3
+Aristas: 5401206
+Clique encontrado: [5583, 2554, 3559, 5162, 4368, 869, 625]
+Tamaño del clique: 7
+Tiempo de ejecución: 0.0081 segundos
+============================================================
+
+============================================================
+Método: HEURÍSTICO (Voraz)
+Nodos: 6500
+Probabilidad de conexión: 0.3
+Aristas: 6337703
+Clique encontrado: [2180, 976, 3725, 5558, 5659, 6134, 2538]
+Tamaño del clique: 7
+Tiempo de ejecución: 0.0087 segundos
+============================================================
+
+============================================================
+Método: HEURÍSTICO (Voraz)
+Nodos: 7000
+Probabilidad de conexión: 0.3
+Aristas: 7346826
+Clique encontrado: [5361, 4694, 1416, 125, 3622, 5942, 6481, 1239, 5011]
+Tamaño del clique: 9
+Tiempo de ejecución: 0.0104 segundos
+============================================================
+
+============================================================
+Método: HEURÍSTICO (Voraz)
+Nodos: 7500
+Probabilidad de conexión: 0.3
+Aristas: 8438135
+Clique encontrado: [6428, 1606, 3573, 4811, 3605, 3194, 6153, 804]
+Tamaño del clique: 8
+Tiempo de ejecución: 0.0131 segundos
+============================================================
+
+============================================================
+Método: HEURÍSTICO (Voraz)
+Nodos: 8000
+Probabilidad de conexión: 0.3
+Aristas: 9601216
+Clique encontrado: [6246, 87, 1714, 1576, 488, 5366, 4228, 7189]
+Tamaño del clique: 8
+Tiempo de ejecución: 0.0107 segundos
+============================================================
+
+============================================================
+Método: HEURÍSTICO (Voraz)
+Nodos: 8500
+Probabilidad de conexión: 0.3
+Aristas: 10841946
+Clique encontrado: [5137, 2249, 4104, 6462, 983, 3772, 3096, 953]
+Tamaño del clique: 8
+Tiempo de ejecución: 0.0136 segundos
+============================================================
+
+============================================================
+Método: HEURÍSTICO (Voraz)
+Nodos: 9000
+Probabilidad de conexión: 0.3
+Aristas: 12144316
+Clique encontrado: [6245, 3700, 5087, 5362, 6125, 6882, 4543, 7840, 8981]
+Tamaño del clique: 9
+Tiempo de ejecución: 0.0152 segundos
+============================================================
+
+============================================================
+Método: HEURÍSTICO (Voraz)
+Nodos: 9500
+Probabilidad de conexión: 0.3
+Aristas: 13541938
+Clique encontrado: [6274, 7222, 4054, 8505, 8880, 717, 6422, 1891]
+Tamaño del clique: 8
+Tiempo de ejecución: 0.0138 segundos
+============================================================
+
+============================================================
+Método: HEURÍSTICO (Voraz)
+Nodos: 10000
+Probabilidad de conexión: 0.3
+Aristas: 15003427
+Clique encontrado: [6412, 1779, 2651, 9685, 1573, 7951, 8296, 1019, 5582]
+Tamaño del clique: 9
+Tiempo de ejecución: 0.0152 segundos
+============================================================
+
+============================================================
+Método: HEURÍSTICO (Voraz)
+Nodos: 10500
+Probabilidad de conexión: 0.3
+Aristas: 16535356
+Clique encontrado: [4323, 9901, 724, 3526, 544, 3800, 8526, 8531, 2212]
+Tamaño del clique: 9
+Tiempo de ejecución: 0.0139 segundos
+============================================================
+
+============================================================
+Método: HEURÍSTICO (Voraz)
+Nodos: 11000
+Probabilidad de conexión: 0.3
+Aristas: 18145998
+Clique encontrado: [1003, 7582, 9139, 9184, 2486, 9843, 10829]
+Tamaño del clique: 7
+Tiempo de ejecución: 0.0157 segundos
+============================================================
+
+============================================================
+Método: HEURÍSTICO (Voraz)
+Nodos: 11500
+Probabilidad de conexión: 0.3
+Aristas: 19836825
+Clique encontrado: [3292, 3151, 6796, 305, 8646, 6078, 1929, 4553, 6806]
+Tamaño del clique: 9
+Tiempo de ejecución: 0.0203 segundos
+============================================================
+
+============================================================
+Método: HEURÍSTICO (Voraz)
+Nodos: 12000
+Probabilidad de conexión: 0.3
+Aristas: 21593069
+Clique encontrado: [10285, 7698, 2578, 7082, 7060, 11644, 11430]
+Tamaño del clique: 7
+Tiempo de ejecución: 0.0183 segundos
+============================================================
+
+============================================================
+Método: HEURÍSTICO (Voraz)
+Nodos: 12500
+Probabilidad de conexión: 0.3
+Aristas: 23437562
+Clique encontrado: [690, 5963, 7503, 5351, 827, 11126, 3338, 8105, 10407]
+Tamaño del clique: 9
+Tiempo de ejecución: 0.0175 segundos
+============================================================
+
+============================================================
+Método: HEURÍSTICO (Voraz)
+Nodos: 13000
+Probabilidad de conexión: 0.3
+Aristas: 25345421
+Clique encontrado: [12459, 7686, 12989, 7418, 243, 10085, 4055, 2595]
+Tamaño del clique: 8
+Tiempo de ejecución: 0.0357 segundos
+============================================================
+
+============================================================
+Método: HEURÍSTICO (Voraz)
+Nodos: 13500
+Probabilidad de conexión: 0.3
+Aristas: 27340183
+Clique encontrado: [6861, 10786, 7555, 7289, 8275, 1025, 323]
+Tamaño del clique: 7
+Tiempo de ejecución: 0.0254 segundos
+============================================================
+
+============================================================
+Método: HEURÍSTICO (Voraz)
+Nodos: 14000
+Probabilidad de conexión: 0.3
+Aristas: 29395265
+Clique encontrado: [4615, 2582, 4362, 3828, 7828, 5665, 10344, 12240, 3833]
+Tamaño del clique: 9
+Tiempo de ejecución: 0.0241 segundos
+============================================================
+
+============================================================
+Método: HEURÍSTICO (Voraz)
+Nodos: 14500
+Probabilidad de conexión: 0.3
+Aristas: 31534279
+Clique encontrado: [3575, 5299, 2799, 10436, 10461, 13148, 762, 13375]
+Tamaño del clique: 8
+Tiempo de ejecución: 0.0279 segundos
+============================================================
+
+============================================================
+Método: HEURÍSTICO (Voraz)
+Nodos: 15000
+Probabilidad de conexión: 0.3
+Aristas: 33749903
+Clique encontrado: [2614, 2173, 2168, 13970, 14524, 4185, 584, 7147]
+Tamaño del clique: 8
+Tiempo de ejecución: 0.0293 segundos
+============================================================
+
+============================================================
+Método: HEURÍSTICO (Voraz)
+Nodos: 15500
+Probabilidad de conexión: 0.3
+Aristas: 36033203
+Clique encontrado: [9568, 3526, 15212, 7848, 12584, 13316, 3534, 10833, 14795]
+Tamaño del clique: 9
+Tiempo de ejecución: 0.0315 segundos
+============================================================
+
+============================================================
+Método: HEURÍSTICO (Voraz)
+Nodos: 16000
+Probabilidad de conexión: 0.3
+Aristas: 38396508
+Clique encontrado: [213, 13431, 11255, 10154, 4903, 13790, 12124, 1615, 2318]
+Tamaño del clique: 9
+Tiempo de ejecución: 0.0332 segundos
+============================================================
+
+============================================================
+Método: HEURÍSTICO (Voraz)
+Nodos: 16500
+Probabilidad de conexión: 0.3
+Aristas: 40846714
+Clique encontrado: [9301, 4665, 6499, 7198, 1608, 7576, 762, 5688]
+Tamaño del clique: 8
+Tiempo de ejecución: 0.0350 segundos
+============================================================
+
+============================================================
+Método: HEURÍSTICO (Voraz)
+Nodos: 17000
+Probabilidad de conexión: 0.3
+Aristas: 43355508
+Clique encontrado: [8962, 1695, 6206, 307, 11680, 976, 13912, 13518]
+Tamaño del clique: 8
+Tiempo de ejecución: 0.0355 segundos
+============================================================
+
+============================================================
+Método: HEURÍSTICO (Voraz)
+Nodos: 17500
+Probabilidad de conexión: 0.3
+Aristas: 45936647
+Clique encontrado: [16279, 8106, 3664, 461, 9868, 5802, 5827, 13312]
+Tamaño del clique: 8
+Tiempo de ejecución: 0.0842 segundos
+============================================================
+
+============================================================
+Método: HEURÍSTICO (Voraz)
+Nodos: 18000
+Probabilidad de conexión: 0.3
+Aristas: 48599692
+Clique encontrado: [1629, 4480, 15891, 9491, 17656, 3748, 15156, 9219]
+Tamaño del clique: 8
+Tiempo de ejecución: 0.0365 segundos
+============================================================
+
+============================================================
+Método: HEURÍSTICO (Voraz)
+Nodos: 18500
+Probabilidad de conexión: 0.3
+Aristas: 51339136
+Clique encontrado: [3028, 7881, 15083, 10562, 3192, 9735, 3199, 1914]
+Tamaño del clique: 8
+Tiempo de ejecución: 0.0312 segundos
+============================================================
+
+============================================================
+Método: HEURÍSTICO (Voraz)
+Nodos: 19000
+Probabilidad de conexión: 0.3
+Aristas: 54153252
+Clique encontrado: [8874, 9075, 14875, 10880, 6343, 16819, 5972, 13703, 3958]
+Tamaño del clique: 9
+Tiempo de ejecución: 0.0324 segundos
+============================================================
+
+============================================================
+Método: HEURÍSTICO (Voraz)
+Nodos: 19500
+Probabilidad de conexión: 0.3
+Aristas: 57040901
+Clique encontrado: [11592, 15416, 376, 13868, 8888, 15387, 158, 1665, 954]
+Tamaño del clique: 9
+Tiempo de ejecución: 0.0318 segundos
+============================================================
+
+============================================================
+Método: HEURÍSTICO (Voraz)
+Nodos: 20000
+Probabilidad de conexión: 0.3
+Aristas: 59994056
+Clique encontrado: [1841, 18854, 787, 12644, 10327, 14453, 16140, 4305, 18258]
+Tamaño del clique: 9
+Tiempo de ejecución: 0.0389 segundos
+============================================================
+
+============================================================
+Método: HEURÍSTICO (Voraz)
+Nodos: 20500
+Probabilidad de conexión: 0.3
+Aristas: 63032998
+Clique encontrado: [1176, 8987, 8577, 1321, 13838, 14155, 1204, 1265, 1085]
+Tamaño del clique: 9
+Tiempo de ejecución: 0.0366 segundos
+============================================================
+
+============================================================
+Método: HEURÍSTICO (Voraz)
+Nodos: 21000
+Probabilidad de conexión: 0.3
+Aristas: 66157062
+Clique encontrado: [1441, 13744, 12268, 14404, 4887, 14903, 9190, 14461, 464]
+Tamaño del clique: 9
+Tiempo de ejecución: 0.0426 segundos
+============================================================
+
+============================================================
+Método: HEURÍSTICO (Voraz)
+Nodos: 21500
+Probabilidad de conexión: 0.3
+Aristas: 69329174
+Clique encontrado: [10925, 3193, 2075, 19156, 9752, 15851, 15288, 17589, 5112, 6761]
+Tamaño del clique: 10
+Tiempo de ejecución: 0.0508 segundos
+============================================================
+

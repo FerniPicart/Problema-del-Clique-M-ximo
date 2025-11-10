@@ -1,0 +1,10 @@
+============================================================
+Método: EXACTO (Bron-Kerbosch)
+Nodos: 500
+Probabilidad de conexión: 0.3
+Aristas: 37264
+Clique encontrado: [1, 176, 47, 49, 198, 187, 107, 181]
+Tamaño del clique: 8
+Tiempo de ejecución: 7.2433 segundos
+============================================================
+

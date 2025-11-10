@@ -1,0 +1,140 @@
+============================================================
+Método: EXACTO (Bron-Kerbosch)
+Nodos: 50
+Probabilidad de conexión: 0.3
+Aristas: 390
+Clique encontrado: [13, 40, 28, 18, 27, 3]
+Tamaño del clique: 6
+Tiempo de ejecución: 0.0022 segundos
+============================================================
+
+============================================================
+Método: EXACTO (Bron-Kerbosch)
+Nodos: 100
+Probabilidad de conexión: 0.3
+Aristas: 1481
+Clique encontrado: [32, 98, 39, 58, 3, 16, 57]
+Tamaño del clique: 7
+Tiempo de ejecución: 0.0139 segundos
+============================================================
+
+============================================================
+Método: EXACTO (Bron-Kerbosch)
+Nodos: 150
+Probabilidad de conexión: 0.3
+Aristas: 3364
+Clique encontrado: [4, 136, 101, 5, 96, 81, 91]
+Tamaño del clique: 7
+Tiempo de ejecución: 0.0601 segundos
+============================================================
+
+============================================================
+Método: EXACTO (Bron-Kerbosch)
+Nodos: 200
+Probabilidad de conexión: 0.3
+Aristas: 5959
+Clique encontrado: [1, 35, 59, 121, 190, 164, 159]
+Tamaño del clique: 7
+Tiempo de ejecución: 0.1630 segundos
+============================================================
+
+============================================================
+Método: EXACTO (Bron-Kerbosch)
+Nodos: 250
+Probabilidad de conexión: 0.3
+Aristas: 9366
+Clique encontrado: [19, 83, 133, 233, 206, 90, 208, 37]
+Tamaño del clique: 8
+Tiempo de ejecución: 0.3894 segundos
+============================================================
+
+============================================================
+Método: EXACTO (Bron-Kerbosch)
+Nodos: 300
+Probabilidad de conexión: 0.3
+Aristas: 13369
+Clique encontrado: [72, 273, 293, 200, 106, 99, 265, 241]
+Tamaño del clique: 8
+Tiempo de ejecución: 0.8283 segundos
+============================================================
+
+============================================================
+Método: EXACTO (Bron-Kerbosch)
+Nodos: 350
+Probabilidad de conexión: 0.3
+Aristas: 18193
+Clique encontrado: [8, 28, 98, 113, 190, 72, 176, 338]
+Tamaño del clique: 8
+Tiempo de ejecución: 1.5017 segundos
+============================================================
+
+============================================================
+Método: EXACTO (Bron-Kerbosch)
+Nodos: 400
+Probabilidad de conexión: 0.3
+Aristas: 23735
+Clique encontrado: [11, 256, 199, 190, 293, 385, 194, 348]
+Tamaño del clique: 8
+Tiempo de ejecución: 2.6850 segundos
+============================================================
+
+============================================================
+Método: EXACTO (Bron-Kerbosch)
+Nodos: 450
+Probabilidad de conexión: 0.3
+Aristas: 30435
+Clique encontrado: [0, 36, 178, 228, 150, 123, 137, 439]
+Tamaño del clique: 8
+Tiempo de ejecución: 4.5219 segundos
+============================================================
+
+============================================================
+Método: EXACTO (Bron-Kerbosch)
+Nodos: 500
+Probabilidad de conexión: 0.3
+Aristas: 37505
+Clique encontrado: [38, 306, 114, 383, 467, 293, 75, 432, 475]
+Tamaño del clique: 9
+Tiempo de ejecución: 5.6436 segundos
+============================================================
+
+============================================================
+Método: EXACTO (Bron-Kerbosch)
+Nodos: 550
+Probabilidad de conexión: 0.3
+Aristas: 45313
+Clique encontrado: [128, 218, 220, 414, 308, 33, 442, 403, 247]
+Tamaño del clique: 9
+Tiempo de ejecución: 8.9764 segundos
+============================================================
+
+============================================================
+Método: EXACTO (Bron-Kerbosch)
+Nodos: 600
+Probabilidad de conexión: 0.3
+Aristas: 53886
+Clique encontrado: [3, 478, 394, 194, 51, 163, 400, 340, 28]
+Tamaño del clique: 9
+Tiempo de ejecución: 13.7505 segundos
+============================================================
+
+============================================================
+Método: EXACTO (Bron-Kerbosch)
+Nodos: 650
+Probabilidad de conexión: 0.3
+Aristas: 63207
+Clique encontrado: [4, 518, 443, 141, 143, 641, 247, 489, 533]
+Tamaño del clique: 9
+Tiempo de ejecución: 19.9448 segundos
+============================================================
+
+============================================================
+Método: EXACTO (Bron-Kerbosch)
+Nodos: 700
+Probabilidad de conexión: 0.3
+Aristas: 73648
+Clique encontrado: [2, 557, 6, 383, 351, 411, 616, 137, 447]
+Tamaño del clique: 9
+Tiempo de ejecución: 28.3691 segundos
+============================================================
+

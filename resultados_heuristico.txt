@@ -1,0 +1,10 @@
+============================================================
+Método: HEURÍSTICO (Voraz)
+Nodos: 5000
+Probabilidad de conexión: 0.3
+Aristas: 3746507
+Clique encontrado: [1157, 782, 3860, 4029, 2343, 2549, 2668]
+Tamaño del clique: 7
+Tiempo de ejecución: 0.0081 segundos
+============================================================
+
